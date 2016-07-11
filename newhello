@@ -4,6 +4,7 @@ dsfs
 WTF
 
 anotgher one
+<<<<<<< HEAD
 fix1
 
 
@@ -14,3 +15,6 @@ fix1
 fix
 =======
 
+=======
+f2
+>>>>>>> 21f35ea... fix 2
