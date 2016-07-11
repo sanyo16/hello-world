@@ -5,6 +5,7 @@ WTF
 
 anotgher one
 <<<<<<< HEAD
+<<<<<<< HEAD
 fix1
 
 
@@ -15,6 +16,9 @@ fix1
 fix
 =======
 
+=======
+f2
+>>>>>>> 21f35ea... fix 2
 =======
 f2
 >>>>>>> 21f35ea... fix 2
